@@ -8,7 +8,8 @@
         android:label="finalproject"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.FinalProject"
+        android:theme="@style/Theme.FinalProject">
+
         <activity
             android:name=".SignInActivity"
             android:exported="true">
@@ -17,10 +18,12 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity
+        </activity>
+
         <activity
             android:name=".SignUpActivity"
             android:exported="true" />
+
     </application>
 
 </manifest>
