@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138879965238",
+    "project_id": "fitfuel-27b47",
+    "storage_bucket": "fitfuel-27b47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138879965238:android:d3492aaa881e13a8652097",
+        "android_client_info": {
+          "package_name": "com.example.finalproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_AJYwQL7YJEi7efUBsUUBeKW0EXIN9DE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
