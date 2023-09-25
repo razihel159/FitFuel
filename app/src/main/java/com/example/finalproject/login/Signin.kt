@@ -1,9 +1,10 @@
-package com.example.finalproject
+package com.example.finalproject.login
 
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import com.example.finalproject.main.MainActivity
 import com.example.finalproject.databinding.ActivitySignInBinding
 import com.google.firebase.auth.FirebaseAuth
 

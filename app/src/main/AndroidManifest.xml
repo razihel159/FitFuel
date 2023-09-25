@@ -11,7 +11,7 @@
         android:theme="@style/Theme.FinalProject">
 
         <activity
-            android:name=".SignInActivity"
+            android:name=".login.SignInActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,7 +21,7 @@
         </activity>
 
         <activity
-            android:name=".SignUpActivity"
+            android:name=".login.SignUpActivity"
             android:exported="true" />
 
     </application>

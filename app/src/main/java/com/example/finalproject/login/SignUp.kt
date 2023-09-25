@@ -1,4 +1,4 @@
-package com.example.finalproject
+package com.example.finalproject.login
 
 import android.content.Intent
 import android.os.Bundle
